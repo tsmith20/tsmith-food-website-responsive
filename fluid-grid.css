@@ -48,6 +48,7 @@ img, object, embed, video {
 	margin-left: 0;
 	width: 100%;
 	display: block;
+	text-align: center;
 }
 #content {
 	clear: both;
@@ -79,6 +80,7 @@ img, object, embed, video {
 	margin-left: 0;
 	width: 100%;
 	display: block;
+	text-align: center;
 }
 #content {
 	clear: both;
@@ -114,7 +116,6 @@ img, object, embed, video {
 	width: 100%;
 	display: block;
 	font-family: "Comic Sans MS", cursive;
-	text-align: center;
 }
 #content {
 	clear: both;
@@ -123,5 +124,6 @@ img, object, embed, video {
 	width: 100%;
 	display: block;
 	text-align: center;
+	color: #906;
 }
 }

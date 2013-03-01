@@ -284,3 +284,9 @@ td { vertical-align: top; }
 .gridContainer.clearfix #LayoutDiv1 #links a {
 	color: #906;
 }
+.gridContainer.clearfix #header #links div a {
+	font-size: 24px;
+}
+.gridContainer.clearfix #header #links div a {
+	color: #906;
+}
