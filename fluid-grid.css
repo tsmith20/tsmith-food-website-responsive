@@ -58,6 +58,13 @@ img, object, embed, video {
 	display: block;
 	text-align: center;
 }
+#footer {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
 
 /* Tablet Layout: 481px to 768px. Inherits styles from: Mobile Layout. */
 
@@ -90,6 +97,13 @@ img, object, embed, video {
 	display: block;
 	text-align: center;
 }
+#footer {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
 }
 
 /* Desktop Layout: 769px to a max of 1232px.  Inherits styles from: Mobile Layout and Tablet Layout. */
@@ -118,6 +132,15 @@ img, object, embed, video {
 	font-family: "Comic Sans MS", cursive;
 }
 #content {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	text-align: center;
+	color: #906;
+}
+#footer {
 	clear: both;
 	float: left;
 	margin-left: 0;
